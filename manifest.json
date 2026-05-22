@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Tu piel, tu rutina by McBlancanieves",
+  "short_name": "McB Rutina",
+  "description": "Guía de cuidado de la piel y rutinas personalizadas by McBlancanieves.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#3D2B1F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
